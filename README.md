@@ -1,4 +1,4 @@
-## Olá! Eu sou o Thiago Miranda 🖐️
+## Olá! Eu sou Thiago Miranda 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiiagoxr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-miranda-7bbbb4236/)
 
